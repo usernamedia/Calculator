@@ -1,0 +1,31 @@
+Welcome to the Calculator!
+Please enter your arithmetic expression: 
+67 - 56
+Result: 11.0
+Do you want to continue? (y/n): 
+y
+Please enter your arithmetic expression: 
+789 + 456
+Result: 1245.0
+Do you want to continue? (y/n): 
+y
+Please enter your arithmetic expression: 
+3 power 9
+Result: 19683.0
+Do you want to continue? (y/n): 
+y
+Please enter your arithmetic expression: 
+456 * 3
+Result: 1368.0
+Do you want to continue? (y/n): 
+n
+Thank you for using the Calculator!
+
+History of Calculations:
+67 - 56 = 11.0
+789 + 456 = 1245.0
+3 power 9 = 19683.0
+456 * 3 = 1368.0
+
+
+** Process exited - Return Code: 0 **
