@@ -1,0 +1,25 @@
+Welcome to the Calculator!
+Please enter your arithmetic expression: 
+456 % 5
+Result: 1.0
+Do you want to continue? (y/n): 
+y
+Please enter your arithmetic expression: 
+56789 * 2345
+Result: 1.33170205E8
+Do you want to continue? (y/n): 
+y
+Please enter your arithmetic expression: 
+12367543 power 567
+Result: Infinity
+Do you want to continue? (y/n): 
+n
+Thank you for using the Calculator!
+
+History of Calculations:
+456 % 5 = 1.0
+56789 * 2345 = 1.33170205E8
+12367543 power 567 = Infinity
+
+
+** Process exited - Return Code: 0 **
