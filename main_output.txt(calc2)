@@ -1,0 +1,31 @@
+Welcome to the Calculator!
+Please enter your arithmetic expression: 
+25 sqrt 5
+Result: 2.23606797749979
+Do you want to continue? (y/n): 
+y
+Please enter your arithmetic expression: 
+5678 + 4567
+Result: 10245.0
+Do you want to continue? (y/n): 
+y
+Please enter your arithmetic expression: 
+456 round 4
+Result: 4.0
+Do you want to continue? (y/n): 
+y
+Please enter your arithmetic expression: 
+45667 - 553
+Result: 45114.0
+Do you want to continue? (y/n): 
+n
+Thank you for using the Calculator!
+
+History of Calculations:
+25 sqrt 5 = 2.23606797749979
+5678 + 4567 = 10245.0
+456 round 4 = 4.0
+45667 - 553 = 45114.0
+
+
+** Process exited - Return Code: 0 **
